@@ -16,8 +16,9 @@ A simple SOCKS5 proxy server implementation in Node.js that supports username/pa
 
 2. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/ashen0217/TakeHomeAssignment.git
+   cd TakeHomeAssignment
+   cd src
    ```
 
 3. Install dependencies:
